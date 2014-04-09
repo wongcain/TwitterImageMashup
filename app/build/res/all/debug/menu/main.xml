@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/sort_alpha"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/sort_alpha"/>
+
+    <item
+        android:id="@+id/sort_chron"
+        android:orderInCategory="200"
+        android:showAsAction="never"
+        android:title="@string/sort_chron"/>
+    
+</menu>
+<!-- From: file:/Users/cwong/projects/TwitterImageMashup/app/src/main/res/menu/main.xml -->
